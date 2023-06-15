@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hola_mundo">Hola Mundo!</string>
+    <string name="ingrese_nombre">Ingrese Nombre</string>
+    <string name="ingrese_nota">Ingrese Nota</string>
+    <string name="aceptar">ACEPTAR</string>
+</resources>

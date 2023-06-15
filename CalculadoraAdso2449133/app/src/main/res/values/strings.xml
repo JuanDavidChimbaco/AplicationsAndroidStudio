@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora ADSO 2449133</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="ingrese_Número">Ingrese Numero</string>
+    <string name="ingrese_número_1">Ingrese Número</string>
+    <string name="ingrese_número_2">Ingrese Número</string>
+    <string name="resultado">Resultado</string>
+    <string name="Sumar">+</string>
+    <string name="Restar">-</string>
+    <string name="Dividir">/</string>
+    <string name="Multiplicar">*</string>
+    <string name="Logo_Sena">SENA</string>
+</resources>
