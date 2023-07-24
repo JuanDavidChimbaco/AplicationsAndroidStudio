@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">crud_api</string>
+    <string name="tienda_adso">Tienda ADSO</string>
+    <string name="codigo">Codigo</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio">Precio</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="consultar">CONSULTAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="modificar">Modificar</string>
+</resources>
