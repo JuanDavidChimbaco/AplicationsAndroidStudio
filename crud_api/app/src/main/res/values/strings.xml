@@ -8,4 +8,6 @@
     <string name="consultar">CONSULTAR</string>
     <string name="eliminar">ELIMINAR</string>
     <string name="modificar">Modificar</string>
+    <string name="escoge_categoria" />
+    <string name="listar">Listar</string>
 </resources>
